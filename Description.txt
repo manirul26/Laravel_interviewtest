@@ -1,0 +1,17 @@
+1.	Cart operation using any popular cart package of Laravel(Front End design mandatory)- 20 Marks
+http://localhost/interview/public/product
+
+
+Create Custom Artisan Command with example using Laravel framework - 10 Marks
+php artisan add:user --- Customer Artisan Command
+
+
+
+2.	Create rest API to expose  all the possible endpoints  using Passport authentication
+http://localhost/interview/public/api/login
+
+http://localhost/interview/public/api/allproduct
+
+Dynamically create the following table using any of your favorite language with html.- 20   marks
+3. http://localhost/interview/public/report
+
